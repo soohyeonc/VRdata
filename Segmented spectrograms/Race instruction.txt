@@ -1,0 +1,11 @@
+Race instruction
+
+*AS = Asian
+*ME = Middle Eastern 
+
+*M = Male
+*F = Female
+
+*1~n = # of participants
+
+=> AS_M_1 = the first Asian male. 
